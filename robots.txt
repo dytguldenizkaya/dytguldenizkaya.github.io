@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dytguldenizkaya.github.io/sitemap.xml
